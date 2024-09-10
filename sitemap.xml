@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   
+   <!-- Home Page -->
+   <url>
+      <loc>https://www.juliespetservices.co.uk/</loc>
+      <lastmod>2024-09-10</lastmod>
+      <priority>1.00</priority>
+   </url>
+
+   <!-- Pet Scanning Page -->
+   <url>
+      <loc>https://www.juliespetservices.co.uk/scanning.html</loc>
+      <lastmod>2024-09-10</lastmod>
+      <priority>0.80</priority>
+   </url>
+
+   <!-- Microchipping Page -->
+   <url>
+      <loc>https://www.juliespetservices.co.uk/microchipping.html</loc>
+      <lastmod>2024-09-10</lastmod>
+      <priority>0.80</priority>
+   </url>
+
+   <!-- Contact Page -->
+   <url>
+      <loc>https://www.juliespetservices.co.uk/contact.html</loc>
+      <lastmod>2024-09-10</lastmod>
+      <priority>0.64</priority>
+   </url>
+   
+</urlset>
