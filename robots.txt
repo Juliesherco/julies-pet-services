@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
-
 Sitemap: https://www.juliespetservices.co.uk/sitemap.xml
