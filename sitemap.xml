@@ -22,6 +22,13 @@
       <priority>0.80</priority>
    </url>
 
+   <!-- Dog Sitting Page -->
+   <url>
+      <loc>https://www.juliespetservices.co.uk/dog-sitting.html</loc>
+      <lastmod>2024-09-21</lastmod>
+      <priority>0.85</priority>
+   </url>
+
    <!-- Contact Page -->
    <url>
       <loc>https://www.juliespetservices.co.uk/contact.html</loc>
